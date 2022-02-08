@@ -1,7 +1,7 @@
  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <p align="center">
-  <h1 align="center">Hello there, <a href="https://github.com/JNPN7">Juhel</a> Here 👋</h1>
+  <h1 align="center">Hello there, <a href="https://phanjujuhel.com.np/">Juhel</a> Here 👋</h1>
 </p>
 
   
